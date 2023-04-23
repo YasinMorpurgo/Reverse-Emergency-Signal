@@ -18,4 +18,4 @@ If you have any ideas/coding experience please feel free to join and help get th
 
 #### flaregun.co.uk
 
-Got an domain address, will soon work out a host to  go with. At the minute using fasthosts, but will update
+Got a domain address, will soon work out a host to  go with. At the minute using fasthosts, but will update
