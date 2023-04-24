@@ -1,0 +1,26 @@
+{
+  "name": "reverse-emergency-signal",
+  "version": "1.0.0",
+  "description": "flaregun app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo //test..1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YasinMorpurgo/Reverse-Emergency-Signal.git"
+  },
+  "keywords": [
+    "Flare",
+    "Gun"
+  ],
+  "author": "Yasin Morpurgo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YasinMorpurgo/Reverse-Emergency-Signal/issues"
+  },
+  "homepage": "https://github.com/YasinMorpurgo/Reverse-Emergency-Signal#readme",
+  "dependencies": {
+    "index.js": "^0.0.3"
+  }
+}
